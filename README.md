@@ -4,7 +4,7 @@
 
 >>  Calcspar: A Contract-Aware LSM-Tree for Cloud Storage with Low Latency Spikes
 
-**The preprint of the paper can be found [here](https://github.com/yhzhou-pds/paper/blob/main/atc23-paper580.pdf).**
+**The preprint of the paper can be found [here](https://www.usenix.org/conference/atc23/presentation/zhou).**
 
 ## What is this repo about? ##
 This repo open-sources our approach for Cloud Storage and evaluations (mainly some scripts). It is a full-fledged open-source version of Calcspar design.
